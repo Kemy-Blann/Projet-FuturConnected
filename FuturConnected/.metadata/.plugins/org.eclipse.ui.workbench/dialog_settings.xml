@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.internal.QuickAccess">
+<<<<<<< HEAD
+		<item value="760" key="dialogHeight"/>
+		<item value="1440" key="dialogWidth"/>
+=======
 		<item value="556" key="dialogHeight"/>
 		<item value="978" key="dialogWidth"/>
+>>>>>>> origin/master
 		<list key="textEntries">
 		</list>
 		<list key="orderedElements">
@@ -12,4 +17,9 @@
 		<list key="textArray">
 		</list>
 	</section>
+<<<<<<< HEAD
+	<section name="ImportExportAction">
+	</section>
+=======
+>>>>>>> origin/master
 </section>
